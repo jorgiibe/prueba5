@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T01:34:55.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="BfJi97_V-Sv-5aDSf2W7" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T01:42:35.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="sKloluT3AouKbS_reMR3" version="22.0.6" type="github">
   <diagram name="Página-1" id="PYHdCMtaZ9K6iWC_R7Uq">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,8 +82,23 @@
         <mxCell id="gVTh78AQYbCyY5CRqsvb-18" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" parent="1" vertex="1">
           <mxGeometry x="1230" y="164.29" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PNPp258NkE-0I14bSV6u-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="710" width="120" height="80" as="geometry" />
+        <mxCell id="PNPp258NkE-0I14bSV6u-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="710" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PNPp258NkE-0I14bSV6u-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database_sql_azure;" vertex="1" parent="1">
+          <mxGeometry x="218" y="720" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNPp258NkE-0I14bSV6u-4" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.cloud_computer" vertex="1" parent="1">
+          <mxGeometry x="200" y="650" width="56.82" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNPp258NkE-0I14bSV6u-5" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="710" width="90" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="PNPp258NkE-0I14bSV6u-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.24;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PNPp258NkE-0I14bSV6u-2" target="PNPp258NkE-0I14bSV6u-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNPp258NkE-0I14bSV6u-8" value="SERVER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="810" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
