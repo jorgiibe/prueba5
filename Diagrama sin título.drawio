@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T01:06:50.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1cxTDAjaUXb2367i1DX6" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T01:08:01.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JRwRqtoxTTMdE3wp7lk8" version="22.0.6" type="github">
   <diagram name="Página-1" id="PYHdCMtaZ9K6iWC_R7Uq">
-    <mxGraphModel dx="1434" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,6 +38,14 @@
         </mxCell>
         <mxCell id="gVTh78AQYbCyY5CRqsvb-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="40" width="63" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gVTh78AQYbCyY5CRqsvb-9" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="590" y="170" width="130" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gVTh78AQYbCyY5CRqsvb-10" value="HTTPS&#xa;Load Balancer" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.network_load_balancer;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="gVTh78AQYbCyY5CRqsvb-9">
+          <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
+            <mxPoint x="5" y="-16" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
